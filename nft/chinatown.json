@@ -1,0 +1,33 @@
+{
+  "name": "WEDRIVE chinatown",
+  "symbol": "NFTPro",
+  "description": "WEDRIVE chinatown passport card",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/chinatown.png",
+  "attributes": [
+    { "trait_type": "Rarity ", "value": "Super Rare" },
+    { "trait_type": "lat", "value": "37.475589" },
+    { "trait_type": "lng", "value": "126.6178849" },
+    {
+      "trait_type": "address",
+      "value": "인천광역시 중구 차이나타운로26번길 12-17"
+    }
+  ],
+  "external_url": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/chinatown.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4DbG4qHTa29YTMB8pRfoDAcmD7DPXRQnacnXvG1W5dcw",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}

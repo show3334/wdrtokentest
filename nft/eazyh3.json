@@ -1,9 +1,9 @@
 {
-  "name": "SmileEazyHwan",
+  "name": "FeverEazyHwan",
   "symbol": "EZH",
   "description": "NFT in memory of my lovely son.",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/eazyh.png",
+  "image": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/eazyh3.png",
   "attributes": [
     { "trait_type": "Born in", "value": "2022-07-26" },
     { "trait_type": "Photo in", "value": "2022-10-26" }
@@ -12,14 +12,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/eazyh.png",
+        "uri": "https://raw.githubusercontent.com/show3334/wdrtokentest/main/nft/eazyh3.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "35nmcQ6Q4zK6x79dqFpVtHyrLrrmKz24VEuWWSj46o5p",
+        "address": "6ur1dgTjPV8sf55cifgG51n6kgYdff3mmH3SpdoZEpLN",
         "verified": true,
         "share": 100
       }
